@@ -1,0 +1,67 @@
+* {
+    font-family: "Tektur", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.title {
+    border-radius: 20px;
+    background-color: rgb(113, 37, 184);
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(25, 231, 25);
+}
+
+.span {
+    color: white;
+}
+
+.gif_content {
+    text-align: center;
+    padding: 20px;
+}
+
+.resume {
+    font-size: 20px;
+}
+
+.gif {
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.date_content {
+    font-weight: bolder;
+    color: rgb(3, 3, 3);
+    margin: auto;
+    padding: 30px;
+    background-color: blueviolet;
+
+}
+
+.button_content {
+    text-align: center;
+}
+
+.link_page {
+    color: rgb(25, 231, 25);
+    font-size: 50px;
+}
+
+.link_page :hover {
+    transition: 1s;
+    color: blueviolet;
+    background-color: rgb(25, 231, 25);
+    border-radius: 100%;
+    height: auto;
+}
